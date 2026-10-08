@@ -1,0 +1,1 @@
+print("Asslamu alikum mara first program chal giya")
